@@ -1,0 +1,14 @@
+# Ignore everything in this folder
+/*.*
+/.*
+/.git/
+/.settings/*
+
+# Except 
+!/*/
+!/.gitignore
+!/pom.xml
+!/LICENSE
+!/LICENSE.*
+!/README.md
+/target/

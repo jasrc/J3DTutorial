@@ -1,0 +1,50 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>jasrc</groupId>
+		<artifactId>J3DTutorial</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+
+	<artifactId>J3Doglsl</artifactId>
+	<description>OpenGL-4-Shading-Language-Java-Examples</description>
+
+	<packaging>pom</packaging>
+
+  <modules>
+  	<module>J3DoglslLib</module>
+  	<module>J3DoglslCh01</module>
+  	<!--module>J3DoglslCh02</module>
+  	<module>J3DoglslCh03</module>
+  	<module>J3DoglslCh04</module>
+  	<module>J3DoglslCh05</module>
+  	<module>J3DoglslCh06</module>
+  	<module>J3DoglslCh07</module>
+  	<module>J3DoglslCh08</module>
+  	<module>J3DoglslCh09</module>
+  	<module>J3DoglslCh10</module>
+  	<module>J3DoglslCh11</module>
+  	<module>J3DoglslCh12</module>
+  	<module>J3DoglslCh13</module>
+  	<module>J3DoglslCh14</module>
+  	<module>J3DoglslCh15</module>
+  	<module>J3DoglslCh16</module>
+  	<module>J3DoglslCh17</module>
+  	<module>J3DoglslCh18</module>
+  	<module>J3DoglslCh19</module>
+  	<module>J3DoglslCh20</module>
+  	<module>J3DoglslCh21</module>
+  	<module>J3DoglslCh22</module>
+  	<module>J3DoglslCh23</module>
+  	<module>J3DoglslCh24</module>
+  	<module>J3DoglslCh25</module>
+  	<module>J3DoglslCh26</module>
+  	<module>J3DoglslCh27</module>
+  	<module>J3DoglslCh28</module>
+  	<module>J3DoglslCh29</module-->
+  </modules>
+
+</project>

@@ -1,0 +1,50 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>jasrc</groupId>
+		<artifactId>J3DTutorial</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+
+	<artifactId>J3Dvulkan</artifactId>
+	<description>OpenGL-4-Shading-Language-Java-Examples</description>
+
+	<packaging>pom</packaging>
+
+  <modules>
+  	<module>J3DvulkanLib</module>
+  	<module>J3DvulkanCh01</module>
+  	<!--module>J3DvulkanCh02</module>
+  	<module>J3DvulkanCh03</module>
+  	<module>J3DvulkanCh04</module>
+  	<module>J3DvulkanCh05</module>
+  	<module>J3DvulkanCh06</module>
+  	<module>J3DvulkanCh07</module>
+  	<module>J3DvulkanCh08</module>
+  	<module>J3DvulkanCh09</module>
+  	<module>J3DvulkanCh10</module>
+  	<module>J3DvulkanCh11</module>
+  	<module>J3DvulkanCh12</module>
+  	<module>J3DvulkanCh13</module>
+  	<module>J3DvulkanCh14</module>
+  	<module>J3DvulkanCh15</module>
+  	<module>J3DvulkanCh16</module>
+  	<module>J3DvulkanCh17</module>
+  	<module>J3DvulkanCh18</module>
+  	<module>J3DvulkanCh19</module>
+  	<module>J3DvulkanCh20</module>
+  	<module>J3DvulkanCh21</module>
+  	<module>J3DvulkanCh22</module>
+  	<module>J3DvulkanCh23</module>
+  	<module>J3DvulkanCh24</module>
+  	<module>J3DvulkanCh25</module>
+  	<module>J3DvulkanCh26</module>
+  	<module>J3DvulkanCh27</module>
+  	<module>J3DvulkanCh28</module>
+  	<module>J3DvulkanCh29</module-->
+  </modules>
+
+</project>
