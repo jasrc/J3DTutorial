@@ -23,6 +23,11 @@
 			<artifactId>J3Dglfw</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
+		<dependency>
+			<groupId>jasrc</groupId>
+			<artifactId>J3DopenglLib</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>
