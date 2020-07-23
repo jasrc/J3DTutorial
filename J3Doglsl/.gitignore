@@ -3,12 +3,14 @@
 /.*
 /.git/
 /.settings/*
+/target/
 
 # Except 
 !/*/
+!/.classpath
+!/.project
 !/.gitignore
 !/pom.xml
 !/LICENSE
 !/LICENSE.*
 !/README.md
-/target/
