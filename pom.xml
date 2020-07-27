@@ -74,11 +74,31 @@
 			</properties>
 		</profile>
 		<profile>
+			<!-- Is there any mac running this profile? -->
 			<id>lwjgl-natives-macos-amd64</id>
 			<activation>
 				<os>
 					<family>mac</family>
 					<arch>amd64</arch>
+				</os>
+			</activation>
+			<properties>
+				<lwjgl.natives>natives-macos</lwjgl.natives>
+			</properties>
+			<dependencies>
+				<dependency>
+					<groupId>org.lwjgl</groupId>
+					<artifactId>lwjgl-vulkan</artifactId>
+					<classifier>natives-macos</classifier>
+				</dependency>
+			</dependencies>
+		</profile>
+		<profile>
+			<id>lwjgl-natives-macos-x86_64</id>
+			<activation>
+				<os>
+					<family>mac</family>
+					<arch>x86_64</arch>
 				</os>
 			</activation>
 			<properties>
