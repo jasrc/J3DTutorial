@@ -27,7 +27,7 @@
 		<findbugs.version>3.0.2</findbugs.version>
 		<cloning.version>1.9.12</cloning.version>
 		<log4j.version>2.13.3</log4j.version>
-		<commons-configuration2.version>2.7</commons-configuration2.version>
+		<commons-configuration2.version>2.8.0</commons-configuration2.version>
 		<commons-codec.version>1.14</commons-codec.version>
 		<commons-io.version>2.7</commons-io.version>
 		<commons-lang3.version>3.10</commons-lang3.version>
